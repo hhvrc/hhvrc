@@ -22,7 +22,4 @@
 - ASP.NET Core
 - EntityFramework Core
 
-### Socials:
-- [LinkTree](https://linktr.ee/hhvrc)
-- contact@heavenvr.tech
-- HentaiHeavenVR#0001
+#### Reach out to me on discord: HentaiHeavenVR#0001
