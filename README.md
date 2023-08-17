@@ -22,6 +22,9 @@
 - ASP.NET Core
 - EntityFramework Core
 
-#### Reach out to me on discord: HentaiHeavenVR#0001
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hhvrc&theme=tokyonight&layout=compact&hide=ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contact me
+
+- For topics regarding ZapMe: [contact@zapme.app](mailto:contact@zapme.app)
+- For other topics: [contact@heavenvr.tech](mailto:contact@heavenvr.tech)
