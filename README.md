@@ -6,21 +6,20 @@
 - BDSM hardware development (pcb/3d-printing)
 
 ### Projects
-- [ZapMe](https://github.com/hhvrc/ZapMe), a application to remote control shock-collars (Closed-Source backend)
+- [ZapMe](https://github.com/hhvrc/ZapMe), a open source application to remote control shock-collars
 
 ### Comfortable
 - C#
 - C++
+- Js/Ts/Html/Css (SvelteKit)
 - Python
 - GoLang
-
-### Learning
-- Css
-- Html
-- React
-- TypeScript
 - ASP.NET Core
 - EntityFramework Core
+
+### Learning
+- ESP-IDF
+- OpenVR SDK (C++)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hhvrc&theme=tokyonight&layout=compact&hide=ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
 
