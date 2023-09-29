@@ -10,14 +10,18 @@ Hardware development is also something I do although I'm not very experienced wi
 
 ## Projects
 
-### ZapMe
+### OpenShock
 
 Open Source project to remote control shock collars with low latency and high reactivity.
 
-- [Frontend](https://github.com/hhvrc/ZapMe-Frontend)
-- [Backend](https://github.com/hhvrc/ZapMe-Backend)
-- [ESP8266](https://github.com/hhvrc/ZapMe-ESP8266)
-- [Hardware](https://github.com/hhvrc/ZapMe-Hardware)
+- [Firmware](https://github.com/Open-Shock/Firmware)
+- [VR Overlay](https://github.com/Open-Shock/ShockLink-VR)
+
+### ZapMe
+
+This used to be a passion project of mine but I abandoned it and merged with OpenShock.
+
+All the code for this will remain open source, alot of this im merging into OpenShock too.
 
 ## Skills
 
