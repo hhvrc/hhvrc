@@ -1,10 +1,8 @@
-# Hi there, I'm HentaiHeavenVR
+# Hi there, I'm HeavenVR
 
 ## About Me
 
-I'm primarily involved in NSFW content creation in VRChat and real-life.
-
-Additionally, I work on BDSM software development for web, desktop, virtual reality, and embedded systems.
+I am Co-Founder, Firmware, and Frontend maintainer for  [OpenShock](https://github.com/openshock).
 
 Hardware development is also something I do although I'm not very experienced within this field yet.
 
