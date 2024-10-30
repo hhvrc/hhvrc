@@ -48,5 +48,5 @@ I'm currently in the process of learning:
 
 You can reach out to me through the following email addresses:
 
-- For ZapMe-related topics: [contact@zapme.app](mailto:contact@zapme.app)
+- For OpenShock-related topics: Join the [OpenShock Discord](https://discord.gg/openshock)
 - For other topics: [contact@heavenvr.tech](mailto:contact@heavenvr.tech)
